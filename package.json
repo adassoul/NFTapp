@@ -23,6 +23,8 @@
     "hardhat": "^2.9.3"
   },
   "dependencies": {
-    "hardhat-waffle": "0.0.1-security"
+    "hardhat-waffle": "0.0.1-security",
+    "koa": "^2.13.4",
+    "koa-static": "^5.0.0"
   }
 }
